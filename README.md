@@ -2,7 +2,8 @@
 #
 create a .env file in the outermost catalog and enter the following
 
-*NOTE! WITHOUT THE SERCET KEYS THE SERVER WILL NOT WORK*
+*NOTE! WITHOUT THE SERCET KEYS THE SERVER WILL NOT WORK!*
+#
 Email me at mans16160@gmail.com and I will send them
 This is to prevent them getting in the wrong hands
 I only share them with legit, trusted people like employers
