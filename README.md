@@ -2,6 +2,11 @@
 #
 create a .env file in the outermost catalog and enter the following
 
+*NOTE! WITHOUT THE SERCET KEYS THE SERVER WILL NOT WORK
+Email me at mans16160@gmail.com and I will send them
+This is to prevent them getting in the wrong hands
+I only share them with legit, trusted people like employers
+
 .ENV FOR SIGGEM-SERVER
 HTTPS_PORT=443
 HTTP_PORT=80
@@ -35,7 +40,7 @@ IMGUR_CLIENT=__REPLACE_ME__
 OPENAI_API_KEY=__REPLACE_ME__
 NODE_ENV=production
 
-Please email me on mans16160@gmail.com and I will send you the secret needed for the .env.
+
 The reason I have hidden them is because I don't want to share the publicly and risk them getting in the wrong hands
 
 npm i #install packages
