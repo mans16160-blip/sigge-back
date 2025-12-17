@@ -1,5 +1,5 @@
-#GET STARTED
-
+**GET STARTED**
+#
 create a .env file in the outermost catalog and enter the following
 
 .ENV FOR SIGGEM-SERVER
@@ -42,7 +42,8 @@ npm start #start server
 
 npm test -- --coverage #run test
 
-#ENDPOINTS
+**ENDPOINTS**
+#
 GET /company
 GET /company/{id}
 POST /company, body: {company_name:{name of company}}
