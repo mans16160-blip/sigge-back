@@ -35,6 +35,8 @@ IMGUR_CLIENT=__REPLACE_ME__
 OPENAI_API_KEY=__REPLACE_ME__
 NODE_ENV=production
 
+Please email me on mans16160@gmail.com and I will send you the secret needed for the .env.
+The reason I have hidden them is because I don't want to share the publicly and risk them getting in the wrong hands
 
 npm i #install packages
 
